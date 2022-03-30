@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://longtb.github.io/sitemap.xml
