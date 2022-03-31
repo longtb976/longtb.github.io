@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>redis on longtb site</title>
+    <link>http://longtb.cn/tags/redis/</link>
+    <description>Recent content in redis on longtb site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jan 2022 16:03:46 +0800</lastBuildDate><atom:link href="http://longtb.cn/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redis6</title>
+      <link>http://longtb.cn/post/redis6/</link>
+      <pubDate>Wed, 12 Jan 2022 16:03:46 +0800</pubDate>
+      
+      <guid>http://longtb.cn/post/redis6/</guid>
+      <description>redis6 ACL（访问控制权限） AUTH 在 Redis 6.0 中引入了 ACL（Access Control List) 的支持，在此前的版本中 Redis 中是没有用户的概念的，其实没有办法很好的控制权限，r</description>
+    </item>
+    
+  </channel>
+</rss>
