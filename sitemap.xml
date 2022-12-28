@@ -10,70 +10,49 @@
   
   <url>
     <loc>http://longtb.cn/categories/</loc>
-    <lastmod>2022-03-15T15:59:43+08:00</lastmod>
+    <lastmod>2022-12-25T18:22:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://longtb.cn/categories/go/</loc>
+    <lastmod>2022-12-25T18:22:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://longtb.cn/post/go-slice/</loc>
+    <lastmod>2022-12-25T18:22:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://longtb.cn/</loc>
-    <lastmod>2022-03-15T15:59:43+08:00</lastmod>
+    <lastmod>2022-12-25T18:22:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://longtb.cn/post/</loc>
-    <lastmod>2022-03-15T15:59:43+08:00</lastmod>
+    <lastmod>2022-12-25T18:22:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://longtb.cn/post/processing/</loc>
-    <lastmod>2022-03-15T15:59:43+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://longtb.cn/tags/processing/</loc>
-    <lastmod>2022-03-15T15:59:43+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://longtb.cn/categories/processing/</loc>
-    <lastmod>2022-03-15T15:59:43+08:00</lastmod>
+    <loc>http://longtb.cn/tags/slice/</loc>
+    <lastmod>2022-12-25T18:22:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://longtb.cn/tags/</loc>
-    <lastmod>2022-03-15T15:59:43+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://longtb.cn/tags/redis/</loc>
-    <lastmod>2022-01-12T16:03:46+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://longtb.cn/categories/redis/</loc>
-    <lastmod>2022-01-12T16:03:46+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://longtb.cn/post/redis6/</loc>
-    <lastmod>2022-01-12T16:03:46+08:00</lastmod>
+    <lastmod>2022-12-25T18:22:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
