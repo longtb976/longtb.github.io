@@ -6,7 +6,16 @@
     <description>Recent content in Tags on longtb site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Dec 2022 18:22:31 +0800</lastBuildDate><atom:link href="http://longtb.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Mar 2023 20:34:39 +0800</lastBuildDate><atom:link href="http://longtb.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mutex</title>
+      <link>http://longtb.cn/tags/mutex/</link>
+      <pubDate>Sun, 26 Mar 2023 20:34:39 +0800</pubDate>
+      
+      <guid>http://longtb.cn/tags/mutex/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>slice</title>
       <link>http://longtb.cn/tags/slice/</link>

@@ -6,7 +6,7 @@
     <description>Recent content on longtb site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Dec 2022 18:22:31 +0800</lastBuildDate><atom:link href="http://longtb.cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Mar 2023 20:34:39 +0800</lastBuildDate><atom:link href="http://longtb.cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://longtb.cn/about/</link>
@@ -14,6 +14,15 @@
       
       <guid>http://longtb.cn/about/</guid>
       <description>longtb 💻 BE Developer</description>
+    </item>
+    
+    <item>
+      <title>Go Mutex</title>
+      <link>http://longtb.cn/post/go-mutex/</link>
+      <pubDate>Sun, 26 Mar 2023 20:34:39 +0800</pubDate>
+      
+      <guid>http://longtb.cn/post/go-mutex/</guid>
+      <description>从问题入手： 如果 Mutex 已经被一个 goroutine 获取了锁，其它等待中的 goroutine 们只能一直等待。那么，等这个锁释放后，等待中的 goroutine 中哪一个会优先获取 Mutex呢？ 在正常</description>
     </item>
     
     <item>
