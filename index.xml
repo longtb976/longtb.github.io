@@ -6,7 +6,7 @@
     <description>Recent content on longtb site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Mar 2023 20:34:39 +0800</lastBuildDate><atom:link href="http://longtb.cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jun 2023 18:22:31 +0800</lastBuildDate><atom:link href="http://longtb.cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://longtb.cn/about/</link>
@@ -14,6 +14,15 @@
       
       <guid>http://longtb.cn/about/</guid>
       <description>longtb 💻 BE Developer</description>
+    </item>
+    
+    <item>
+      <title>Go Interface</title>
+      <link>http://longtb.cn/post/go-interface/</link>
+      <pubDate>Sat, 24 Jun 2023 18:22:31 +0800</pubDate>
+      
+      <guid>http://longtb.cn/post/go-interface/</guid>
+      <description>Interface Interface 的定义 Go 语言提供了另外一种数据类型即接口，它把所有的具有共性的方法定义在一起，任何其他类型只要实现了这些方法就是实现了这个接口。 接口可以</description>
     </item>
     
     <item>
@@ -26,7 +35,7 @@
     </item>
     
     <item>
-      <title>go slice</title>
+      <title>Go Slice</title>
       <link>http://longtb.cn/post/go-slice/</link>
       <pubDate>Sun, 25 Dec 2022 18:22:31 +0800</pubDate>
       
